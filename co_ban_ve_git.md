@@ -15,9 +15,10 @@ https://daringfireball.net/projects/markdown/syntax
 - Mở Github Desktop, clone Repo vừa tạo về máy, chọn thư mục để lưu. Mọi file cần thay đổi và sửa đổi cần lưu ở thư mục này
 - Thêm file, sửa đổi file cũ vào trong thư mục vừa tạo 
 - Chọn commit to master
+<img src="https://imgur.com/lhVzZea"
 
-https://imgur.com/lhVzZea
 - Sau đó Commit lên Repo
+<img src="https://imgur.com/s6j1wBv
+"
 
-https://imgur.com/s6j1wBv
 
