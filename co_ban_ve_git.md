@@ -18,6 +18,6 @@ https://daringfireball.net/projects/markdown/syntax
 <img src="https://imgur.com/lhVzZea">
 
 - Sau đó Commit lên Repo
-<img src="https://imgur.com/s6j1wBv"> 
+<img src="https://imgur.com/s6j1wBv">
 
 
