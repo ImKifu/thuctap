@@ -31,7 +31,7 @@
 - Chuẩn riêng của hãng
 - Chuẩn hiệp hội    
 ## Mô hình OSI 
-    mô hình OSI ra đời với mục đích cho phép hai hệ thống bất kì truyền thông với nhau mà không cần thay đổi bất cứ phần cứng hoặc phần mềm nào bên dưới-mô hình OSI không phải là một giao thức, nó là mô hình để nhận biết và thiết kế một kiến trúc mạng linh động, vững chắc và có khả năng liên tác-kiến trúc phân tầng :
+		kiến trúc phân tầng :
 	1. tầng vật lý (  physical layer )
 	2. tầng liên kết dữ liệu ( datalink layer )
 	3. tầng mạng ( network layer )
@@ -39,6 +39,9 @@
 	5. tầng phiên ( session layer )
 	6. tầng trình diễu ( presentation layer )
 	7. tầng ứng dụng ( application layer )
+
+		mô hình OSI ra đời với mục đích cho phép hai hệ thống bất kì truyền thông với nhau mà không cần thay đổi bất cứ phần cứng hoặc phần mềm nào bên dưới
+		mô hình OSI không phải là một giao thức, nó là mô hình để nhận biết và thiết kế một kiến trúc mạng linh động, vững chắc và có khả năng liên tác
 
 ## TCP/IP: là một bộ giao thức có chứa 4 lớp
 
