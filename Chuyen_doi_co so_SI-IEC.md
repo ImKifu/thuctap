@@ -64,6 +64,6 @@ Với sự tăng trưởng nhanh chóng của cường độ dữ liệu, sự k
 
 
 
-<img src="https://imgur.com/gallery/GbSCcu5">
+<img src="https://imgur.com/e4cPX7o">
 
 
